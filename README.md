@@ -2,7 +2,6 @@
 
 Simple node js websocket project.
 
-For production environments...
 
 ```sh
 $ npm install --save ws
