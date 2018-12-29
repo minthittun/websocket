@@ -4,7 +4,6 @@ Simple node js websocket project.
 
 
 ```
-$ npm install --save ws
-$ npm install --save express
+$ npm install
 $ node server.js
 ```
