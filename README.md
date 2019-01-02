@@ -1,6 +1,6 @@
 ﻿# Simple Node JS Websocket
 
-Simple node js websocket project.
+Simple node js websocket project tutorial.
 
 
 ```
